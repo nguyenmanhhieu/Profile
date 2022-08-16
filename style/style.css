@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.mt-4{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.linkprofile{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-image: url(https://www.balmerlawrie.com/img/main_images/inside_banner/travel-banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.col-sm-4 > .nav{
+    float: left;
+    display: inline-block;
+}
+
+.col-sm-4 > .product{
+    font-weight: 600;
+    text-transform: uppercase;
+}
